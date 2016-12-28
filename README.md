@@ -4,4 +4,4 @@
 
 Just click on the website link, let your email and you'll be prompty contacter to have a quote.
 
-
+A special thanks to [Adrien Joly](https://github.com/adrienjoly/landing-page-boilerplate) for his good work.
